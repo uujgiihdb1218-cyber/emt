@@ -28,7 +28,7 @@ export default function AboutPage() {
       <div className="topbar">
         <div className="container topbarInner">
           <span>Өмнөговь аймаг, Цогтцэций сум</span>
-          <span>Холбоо барих: 7053-XXXX · info@eruulmendiintuv.mn</span>
+          <span>Холбоо барих: 88707708 · info@eruulmendiintuv.mn</span>
         </div>
       </div>
 
@@ -129,7 +129,7 @@ export default function AboutPage() {
           </div>
           <div>
             <span>Холбоо барих</span>
-            <p>info@eruulmendiintuv.mn<br />7053-0000</p>
+            <p>info@eruulmendiintuv.mn<br />88707708</p>
           </div>
         </div>
       </footer>

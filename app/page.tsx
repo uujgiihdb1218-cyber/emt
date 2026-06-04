@@ -35,8 +35,8 @@ export default function Home() {
     <main>
       <div className="topbar">
         <div className="container topbarInner">
-          <span>Монгол Улс, Улаанбаатар хот</span>
-          <span>Утас: 11-323002 · И-мэйл: info@eruulmendiintuv.mn</span>
+          <span>Монгол Улс, Өмнөговь аймаг, Цогтцэций сум</span>
+          <span>Утас: 88707708 · И-мэйл: info@eruulmendiintuv.mn</span>
         </div>
       </div>
 
@@ -44,7 +44,7 @@ export default function Home() {
         <div className="container headerInner">
           <a className="brand" href="#" aria-label="Эрүүл Мэндийн Төв">
         
-            <img src="logo.jpg" alt="Logo" width="100" height="100"/>
+            <img className="brandLogo" src="/logo-transparent.png" alt="Logo" width="100" height="100"/>
             <span>
               <strong>ЭРҮҮЛ МЭНДИЙН ТӨВ</strong>
               <small>Иргэн бүрт ойр, чанартай тусламж</small>
@@ -135,11 +135,11 @@ export default function Home() {
           </div>
           <div>
             <span>Хаяг</span>
-            <p>Сүхбаатар дүүрэг, Улаанбаатар хот, Монгол Улс</p>
+            <p>Цогтцэций сум, Өмнөговь аймаг, Монгол Улс</p>
           </div>
           <div>
             <span>Холбоо барих</span>
-            <p>info@eruulmendiintuv.mn<br />11-323002</p>
+            <p>info@eruulmendiintuv.mn<br />88707708</p>
           </div>
         </div>
       </footer>
